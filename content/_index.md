@@ -24,7 +24,7 @@ sections:
       title: About FASR
       subtitle: ''
       text: |
-        The **Frequency Agile Solar Radiotelescope (FASR)** is a next generation radio interferometer array dedicated to solar and space weather research. FASR will build upon the technology that enabled the [Expanded Owens Valley Solar Array](https://ovsa.njit.edu), but with 10 times more antennas, 100 times more baselines, and an order of magnitude wider bandwidth, it will enable radio imaging with unprecedentedly high image dynamic range, fidelity, and sensitivity. Together with greatly enhanced angular resolution, spectral resolution, and time cadence, it will bring the transformative technique of "ultrawide-band radio video camera" to solar and heliospheric studies. 
+        The **Frequency Agile Solar Radiotelescope (FASR)** is a next generation radio interferometer array dedicated to solar and space weather research. FASR will build upon the technology that enabled the [Expanded Owens Valley Solar Array](https://ovsa.njit.edu), but with 10 times more antennas, 100 times more baselines, and an order of magnitude wider bandwidth, it will enable radio imaging with unprecedentedly high image dynamic range, fidelity, and sensitivity. Together with greatly enhanced angular resolution, spectral resolution, and time cadence, it will bring the transformative technique of "**ultrawide-band radio video camera**" to solar and heliospheric studies. 
         
         By virtue of its broad frequency coverage, FASR will image the entire solar atmosphere multiple times per second from the chromosphere through the corona, while retaining the capability to image a selected frequency range with as little as millisecond-level time resolution. FASR is sensitive to temperatures from < 10,000 K to > 30 MK, and nonthermal particle energies from ∼ 20 keV to > 1 MeV. Moreover, FASR’s panoramic view allows the solar atmosphere and the physical phenomena therein, both thermal and nonthermal, to be studied as a coupled system.
 
@@ -77,7 +77,7 @@ sections:
         | Data channels | 2 (dual polarization) |
         | Instantaeous Bandwidth | A: 20 GHz; B: (2 GHz) |
         | Frequency resolution | Instrumental: 125 kHz; Science: min(1%, 5 MHz) |
-        | Time resolution | Standard: 1 s; Bursty: up to 1 ms|
+        | Time resolution | Standard: 1 s; Bursty: down to 1 ms|
         | Polarization | Full Stokes (IQUV) |
         | Antennas deployed | A (2–20 GHz): ~100-120; B (0.2–2 GHz): 60-100 |
         | Antenna sizes | A (2–20 GHz or 1.5-30 GHz): 2 m; B (0.2–2 GHz): 6 m |
