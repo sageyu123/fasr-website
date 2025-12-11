@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Pascal Saint-Hilaire
+title: David DeBoer
 
 # Full name (for SEO)
-first_name: Pascal
-last_name: Saint-Hilaire
+first_name: David
+last_name: DeBoer
 
 # Username (this should match the folder name)
 authors:
-  - psh
+  - ddeboer
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Physicist
+role: Research Astronomer
 
 # Organizations/Affiliations
 organizations:
@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:shilaire@berkeley.edu'
+    link: 'mailto:ddeboer@berkeley.edu'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

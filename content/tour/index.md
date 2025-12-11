@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: fasr_science.jpg
+            filename: FASR_science_cover_pic.jpg
             filters:
               brightness: 0.7
           position: right

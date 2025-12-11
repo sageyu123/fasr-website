@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -54,7 +54,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Fellows
+  - Team Members
 ---
 
 Dr. Peijin Zhang is an NASA Living-with-a-Star Jack Eddy Postdoctoral Fellow at the University Corporations for Atmospheric Research, hosted by the New Jersey Institute of Technology.

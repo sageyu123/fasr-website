@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Pascal Saint-Hilaire
+title: Rich Bradley
 
 # Full name (for SEO)
-first_name: Pascal
-last_name: Saint-Hilaire
+first_name: Richard
+last_name: Bradley
 
 # Username (this should match the folder name)
 authors:
-  - psh
+  - rbradley
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Physicist
+role: Research Engineer
 
 # Organizations/Affiliations
 organizations:
-  - name: University of California, Berkeley
+  - name: National Radio Astronomy Observatory
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:shilaire@berkeley.edu'
+    link: 'mailto:rbradley@nrao.edu'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

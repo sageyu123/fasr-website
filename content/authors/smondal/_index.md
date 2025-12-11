@@ -18,7 +18,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: New Jersey Institute of Technology
+  - name: National Centre for Radio Astrophysics, India
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -54,7 +54,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Fellows
+  - Team Members
 ---
 
-Dr. Surajit Mondal is a Postdoctoral Researcher at the New Jersey Institute of Technology.
+Dr. Surajit Mondal is a Research Scientist at the National Centre for Radio Astrophysics - Tata Institute of Fundamental Research, Pune.

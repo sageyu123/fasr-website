@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Angelos Vourlidas
+weight: 100
 
 # Full name (for SEO)
 first_name: Angelos
