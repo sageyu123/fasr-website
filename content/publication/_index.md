@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: FASR Publications
 
 # Listing view
 view: citation
