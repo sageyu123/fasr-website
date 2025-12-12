@@ -29,6 +29,8 @@ body {
 #navbar-main {
   background: #2f629c;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+  font-family: "Helvetica", Helvetica, Arial, sans-serif;
+  font-weight: 300;
 }
 
 #navbar-main .navbar-brand,
@@ -48,6 +50,32 @@ body {
 #navbar-main .navbar-nav .nav-link:focus {
   color: #ffffff;
   background: rgba(255, 255, 255, 0.22);
+}
+
+
+#navbar-main .dropdown-menu {
+  background: #4c77a2 !important; // override theme default white
+  border: none;
+  // box-shadow: 0 8px 18px rgba(0, 0, 0, 0.25);
+}
+
+#navbar-main .dropdown-menu .dropdown-item {
+  color: #edecec !important; // match navbar link color
+  background: transparent !important; // override theme default white box
+  font-family: inherit !important;
+  font-weight: inherit !important;
+}
+
+#navbar-main .dropdown-menu .dropdown-item:hover,
+#navbar-main .dropdown-menu .dropdown-item:focus {
+  color: #ffffff;
+  background: rgba(255, 255, 255, 0.12) !important;
+}
+
+#navbar-main .dropdown-menu .dropdown-item.active,
+#navbar-main .dropdown-menu .dropdown-item:active {
+  color: #ffffff !important;
+  background: rgba(255, 255, 255, 0.18) !important;
 }
 
 // // Lighten text colors in the homepage Latest News section
@@ -101,6 +129,12 @@ body .article-container .article-title {
   background: rgba(255, 255, 255, 0.22);
   border-radius: 0;
   padding-bottom: 0.35rem;
+}
+
+@media (max-width: 991.98px) {
+  #navbar-main .navbar-collapse {
+    background-color: inherit !important; // match desktop navbar background
+  }
 }
 
 // Hero section: starfield feel with cool tones and lighter text
