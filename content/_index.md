@@ -20,7 +20,7 @@ sections:
         icon: arrow-right-end-on-rectangle
       cta_alt:
         label: Join Us
-        url: https://join.slack.com/t/ovsa-fasr/shared_invite/zt-3clb7g6f8-R_XP1jYDzZsU0bzGs1xJjg
+        url: collaboration
         icon_pack: hero
         #icon: arrow-right-end-on-rectangle
     design:
