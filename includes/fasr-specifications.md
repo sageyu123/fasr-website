@@ -1,6 +1,4 @@
-### Reference FASR Specifications
-(The specifications below will be refined with community input, hardware development, and trade-off considerations.)
-
+The working reference design below is evolving with community input—new science use cases help refine these targets and trade-offs.
 <div style="clear: both;"></div>
 
 | Specification | Value |

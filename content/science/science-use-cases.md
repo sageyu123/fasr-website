@@ -4,15 +4,51 @@ date: 2025-12-11
 type: page
 ---
 
-## FASR Science Use Cases
+The initial science drivers and [reference design parameters](/technology/reference-specifications/) for FASR were established through [community white papers](#fasr-related-decadal-survey-white-papers) and technical studies. The topics of the white pages are grouped into four general themes, organized as the [Science Working Groups (SWGs)](#fasr-science-working-groups-swgs). The current development phase builds on this foundation, expanding and refining the scientific vision with direct input from the heliophysics community. 
+We invite the community to submit Science Use Cases as FASR progresses through the Conceptual Design Phase. If you are interested in submitting a new Science Use Case for consideration, please fill out the [FASR Science Use Case Form](TBA). Community input will directly inform decisions about:
 
-The Frequency Agile Solar Radiotelescope (FASR) is a next-generation, solar-dedicated radio observatory concept endorsed by the 2024–2033 Solar and Space Physics Decadal Survey as the highest-priority ground-based instrument under the Mid-scale Research Infrastructure (MSRI) program. Designed to deliver broadband, high-cadence imaging spectroscopy across 0.2–20 GHz, FASR will open new frontiers in understanding the solar atmosphere—from the chromosphere to the corona.
 
-The initial science drivers and reference design parameters for FASR were established through community white papers and technical studies. The current development phase builds on this foundation, expanding and refining the scientific vision with direct input from the heliophysics community.
+- observing modes
+- frequency coverage and resolution
+- calibration and data processing requirements
+- standard and high-level data products
+- long-term science priorities
+
+<!-- 
+If you are interested in submitting a new science use case for consideration, please fill out the FASR Science Use Case form (link to be provided), and email the completed document to the [FASR Science Working Group](mailto:fasr-science-group@njit.edu). -->
 
 ---
 
-## FASR-Related Decadal Survey White Papers
+## [Example Science Use Case Templates](#example-science-use-case-templates)
+
+The following example science use cases illustrate the general information and structure that are helpful for us to refine the FASR design:
+
+1. [Mapping Coronal Magnetic Fields During Solar Eruptions](https://docs.google.com/document/d/1Uu0j3USGtATwUuwSvio0rISWBf9U6qFrp7cLNUfen8k/edit?usp=drive_link)
+2. [Investigation of compact transient structures in the low corona](https://docs.google.com/document/d/1N6zXcH_lQILgMNyZx5PYeZtVcf018SD7/edit?usp=sharing&ouid=116534824968148255658&rtpof=true&sd=true)
+
+We encourage contributions across the full spectrum of heliosphysics, from foundational plasma physics to operational space weather forecasting. Contributors are not expected to develop all technical details independently--**the FASR team and Science Working Groups can assist, particularly in translating science goals into observational and instrumental requirements**. Your input will help ensure that FASR is designed to address the most compelling scientific questions of the coming decades.
+
+---
+
+## [FASR Science Working Groups (SWGs)](#fasr-science-working-groups-swgs)
+
+Science use cases are being developed and evaluated within four current Science Working Groups, spanning the major areas of solar radio physics.
+
+**SWG1: Magnetic Reconnection & Particle Acceleration**  
+Probing the physics of energy release, particle acceleration, and the formation of flare-accelerated populations during solar flares and eruptive events.
+
+**SWG2: Coronal Magnetography**  
+Mapping coronal magnetic fields using advanced radio diagnostics to understand field topology, dynamics, and their role in structuring the solar atmosphere.
+
+**SWG3: Coronal Heating & Solar Wind Acceleration**  
+Investigating the conversion of magnetic energy into thermal and kinetic energy, including mechanisms that heat the corona and drive the solar wind.
+
+**SWG4: Drivers of Space Weather**  
+Characterizing solar activity that perturbs the heliosphere and affects the geospace environment, improving our ability to forecast space-weather conditions.
+
+---
+
+## [FASR-Related Decadal Survey White Papers](#fasr-related-decadal-survey-white-papers)
 
 Below is a curated list of FASR-related white papers submitted to the 2024–2033 Solar and Space Physics Decadal Survey, organized by science theme.
 
@@ -43,23 +79,6 @@ Below is a curated list of FASR-related white papers submitted to the 2024–203
 **Overall Science / Instrument / Technique**
 - [Main FASR science/instrument paper](http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/623127/6920789/68-1f4d2fb9daa4d61b515d4781a45048bb_2024_SSP_Decadal_WP___Frequency_Agile_Solar_Radiotelescope.pdf) — *Dale Gary* (dgary@njit.edu)
 
----
-
-## FASR Science Working Groups (SWGs)
-
-Science use cases are being developed and evaluated within four current Science Working Groups, spanning the major areas of solar radio physics.
-
-**SWG1: Magnetic Reconnection & Particle Acceleration**  
-Probing the physics of energy release, particle acceleration, and the formation of flare-accelerated populations during solar flares and eruptive events.
-
-**SWG2: Coronal Magnetography**  
-Mapping coronal magnetic fields using advanced radio diagnostics to understand field topology, dynamics, and their role in structuring the solar atmosphere.
-
-**SWG3: Coronal Heating & Solar Wind Acceleration**  
-Investigating the conversion of magnetic energy into thermal and kinetic energy, including mechanisms that heat the corona and drive the solar wind.
-
-**SWG4: Drivers of Space Weather**  
-Characterizing solar activity that perturbs the heliosphere and affects the geospace environment, improving our ability to forecast space-weather conditions.
 
 <!-- Each SWG maintains a curated presentation highlighting selected science use cases under active development:
 - SWG1 Presentation: Magnetic Reconnection & Particle Acceleration (link to be added)
@@ -69,24 +88,6 @@ Characterizing solar activity that perturbs the heliosphere and affects the geos
 
 ---
 
-## Contributing a FASR Science Use Case
 
-The FASR project welcomes additional science use cases from the broader heliophysics community as it advances through the Conceptual Design Phase. Community input will directly inform decisions about:
-- observing modes
-- frequency coverage and resolution
-- calibration and data processing requirements
-- standard and high-level data products
-- long-term science priorities
-
+## [Reference Specifications](#reference-specifications)
 {{< include-md "includes/fasr-specifications.md" >}}
-
-If you are interested in submitting a new science use case for consideration, please fill out the FASR Science Use Case form (link to be provided), and email the completed document to the [FASR Science Working Group](mailto:fasr-science-group@njit.edu).
-
-### Example Science Use Case Templates
-
-The following example templates illustrate the level of detail and structure that are helpful for FASR science use cases:
-
-1. [Mapping Coronal Magnetic Fields During Solar Eruptions](https://docs.google.com/document/d/1Uu0j3USGtATwUuwSvio0rISWBf9U6qFrp7cLNUfen8k/edit?usp=drive_link)
-2. [Investigation of compact transient structures in the low corona](https://docs.google.com/document/d/1N6zXcH_lQILgMNyZx5PYeZtVcf018SD7/edit?usp=sharing&ouid=116534824968148255658&rtpof=true&sd=true)
-
-We encourage contributions across the full spectrum of heliosphysics, from foundational plasma physics to operational space weather forecasting. Your input will help ensure that FASR is designed to address the most compelling scientific questions of the coming decades.
