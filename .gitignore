@@ -5,8 +5,15 @@
 /resources/
 public/
 assets/jsconfig.json
+.hugo_cache/
+.hugo_build.lock
 
-
+# OS files
 .DS_Store
+._*
+Thumbs.db
+Desktop.ini
 
-.hugo_cache
+# Editor files
+*~
+*.swp
