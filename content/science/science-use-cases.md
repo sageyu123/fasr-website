@@ -39,14 +39,19 @@ Science use cases are being developed and evaluated within four current Science 
 **SWG1: Magnetic Reconnection & Particle Acceleration**  
 Probing the physics of energy release, particle acceleration, and the formation of flare-accelerated populations during solar flares and eruptive events.
 
+- [SWG1-1: Where is the Primary Electron Acceleration Site in Solar Flares?](../FASR-SciCase-WG1-1_primary_electron_acceleration_site_solar_flares.pdf) — Lead author: *Bin Chen*
+
 **SWG2: Coronal Magnetography**  
 Mapping coronal magnetic fields using advanced radio diagnostics to understand field topology, dynamics, and their role in structuring the solar atmosphere.
 
-- [SWG2-1: Mapping Magnetic Fields in Post-Flare Loops and Arcades](../FASR-SciCase-WG2-1_mapping_magnetic_fields_post_flare_loops_arcades.pdf)
-- [SWG2-3: Diagnosing the Dynamics of Developing Magnetic Flux Ropes in Active Regions](../FASR-SciCase-WG2-3_diagnosing_developing_magnetic_flux_ropes.pdf)
+- [SWG2-1: Mapping Magnetic Fields in Post-Flare Loops and Arcades](../FASR-SciCase-WG2-1_mapping_magnetic_fields_post_flare_loops_arcades.pdf) — Lead author: *Sijie Yu*
+- [SWG2-2: Determining the Source of Non-Thermal Emission in Supra-Arcade Downflows and Fans](../FASR-SciCase-WG2-2_nonthermal_emission_supra_arcade_downflows_fans.pdf) — Lead author: *Kathy Reeves*
+- [SWG2-3: Diagnosing the Dynamics of Developing Magnetic Flux Ropes in Active Regions](../FASR-SciCase-WG2-3_diagnosing_developing_magnetic_flux_ropes.pdf) — Lead author: *Jie Zhang*
 
 **SWG3: Coronal Heating & Solar Wind Acceleration**  
 Investigating the conversion of magnetic energy into thermal and kinetic energy, including mechanisms that heat the corona and drive the solar wind.
+
+- [SWG3-1: Investigation of Compact Transient Structures in the Low Corona](../FASR-SciCase-WG3-1_compact_transient_structures_low_corona.pdf) — Lead author: *Surajit Mondal*
 
 **SWG4: Drivers of Space Weather**  
 Characterizing solar activity that perturbs the heliosphere and affects the geospace environment, improving our ability to forecast space-weather conditions.

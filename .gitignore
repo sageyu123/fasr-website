@@ -17,3 +17,6 @@ Desktop.ini
 # Editor files
 *~
 *.swp
+
+# Local context
+context.md
