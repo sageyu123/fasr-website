@@ -26,7 +26,7 @@ To preview what questions are on the form, here are
 
 After receiving the community input, the FASR team and Science Working Groups (see the section below) will sort through the submissions, and work with the authors to further develop and refine the technical requirements. The results will be used to form the final collection of FASR science use cases and published on our website. Template of the full science use case is available in [Docx format](../FASR_Science_Use_Case_Template_v0.2.docx) and [Overleaf](https://www.overleaf.com/read/ksdtwpdrghyz#00e118).
 
-For full consideration, please submit your Science Use Case using the following link by **April 30, 2026**:
+For full consideration, please submit your Science Use Case using the following link by **May 31, 2026**:
 
 [**Submitting your Science Use Case here**](https://forms.gle/z3SX25uuPNSgEXzr9)
 
@@ -41,6 +41,9 @@ Probing the physics of energy release, particle acceleration, and the formation 
 
 **SWG2: Coronal Magnetography**  
 Mapping coronal magnetic fields using advanced radio diagnostics to understand field topology, dynamics, and their role in structuring the solar atmosphere.
+
+- [SWG2-1: Mapping Magnetic Fields in Post-Flare Loops and Arcades](../FASR-SciCase-WG2-1_mapping_magnetic_fields_post_flare_loops_arcades.pdf)
+- [SWG2-3: Diagnosing the Dynamics of Developing Magnetic Flux Ropes in Active Regions](../FASR-SciCase-WG2-3_diagnosing_developing_magnetic_flux_ropes.pdf)
 
 **SWG3: Coronal Heating & Solar Wind Acceleration**  
 Investigating the conversion of magnetic energy into thermal and kinetic energy, including mechanisms that heat the corona and drive the solar wind.
