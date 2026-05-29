@@ -4,15 +4,16 @@ The working reference design below is evolving with community input—new scienc
 | Specification | Value |
 | --- | --- |
 | Angular resolution | 20″/ν<sub>GHz</sub> (≈1″ @ 20 GHz) |
-| Dynamic range | > 1000:1 |
-| Frequency range | 200 MHz–20 GHz (possibly 30 GHz) |
+| Dynamic range | >1000:1 (flaring Sun); >100:1 (non-flaring Sun) |
+| Frequency range | 0.3–20 GHz |
 | Data channels | 2 (dual polarization) |
-| Instantaneous Bandwidth | A: 20-30 GHz; B: 2-3 GHz |
-| Frequency resolution | Instrumental: 125 kHz; Science: min(1%, 5 MHz) |
-| Time resolution | Standard: 1 s (full sweep); Bursty: 20 ms (full sweep); Special: <1 ms (single band) |
+| Instantaneous Bandwidth | A: >4 GHz per channel; B: >2 GHz per channel |
+| Frequency resolution | Instrumental: 125 kHz; Science: min(1%, 30 MHz) |
+| Time resolution | Standard: 1 s (full sweep); Bursty: 20 ms (single band) |
 | Polarization | Full Stokes (IQUV) |
-| Antennas deployed | A (1–20 or 2-30 GHz): ~100-120; B (0.2–2 or 0.3-3 GHz): 60-100 |
-| Antenna sizes | A (1–20 or 1.5-30 GHz): 2 m; B (0.2–2 or 0.3-3 GHz): 6 m |
-| Array size | 4 × 5 km |
+| Antennas deployed | A (2-20 GHz): 120; B (0.3–3 GHz): 80 |
+| Antenna sizes | A (2-20 GHz): 1.5 m; B (0.3–3 GHz): 6 m |
+| Array size | 4 × 5.2 km |
 | Absolute position error | 1 arcsec |
 | Absolute flux calibration | Better than 10% |
+| Circular polarization purity | Better than 5% |
